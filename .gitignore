@@ -1,0 +1,22 @@
+# Ignore database file
+vital_signs.db
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore virtual environments
+venv/
+*.venv/
+
+# Ignore Streamlit logs
+.streamlit/
